@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/movies-pro/static/css/main.cad17248.css",
+    "main.js": "/movies-pro/static/js/main.b435dba8.js",
+    "static/js/787.62a758c2.chunk.js": "/movies-pro/static/js/787.62a758c2.chunk.js",
+    "index.html": "/movies-pro/index.html",
+    "main.cad17248.css.map": "/movies-pro/static/css/main.cad17248.css.map",
+    "main.b435dba8.js.map": "/movies-pro/static/js/main.b435dba8.js.map",
+    "787.62a758c2.chunk.js.map": "/movies-pro/static/js/787.62a758c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cad17248.css",
+    "static/js/main.b435dba8.js"
+  ]
+}
